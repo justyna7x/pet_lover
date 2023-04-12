@@ -1,3 +1,12 @@
+-The user can view all the pets available for adoption (I used dummy dataset with pets)
+-The user can filter pets via categories (dogs, cats, rabbits, birds)
+-The user can click on the pet to view more info about it
+-The user can filter the pets by typing their names into search bar
+
+The project idea is inspired from Code Academy.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
