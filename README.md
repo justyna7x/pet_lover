@@ -1,9 +1,9 @@
--The user can view all the pets available for adoption (I used dummy dataset with pets)
--The user can filter pets via categories (dogs, cats, rabbits, birds)
--The user can click on the pet to view more info about it
--The user can filter the pets by typing their names into search bar
+-The user can view all the pets available for adoption (I used dummy dataset with pets)\
+-The user can filter pets via categories (dogs, cats, rabbits, birds)\
+-The user can click on the pet to view more info about it\
+-The user can filter the pets by typing their names into search bar\
 
-The project idea is inspired from Code Academy.
+The project idea is inspired from Code Academy.\
 
 
 
